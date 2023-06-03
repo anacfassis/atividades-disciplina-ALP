@@ -1,4 +1,4 @@
-class Program55
+﻿class Program5
 {
     static void Main(string[] args)
     {
@@ -6,7 +6,7 @@ class Program55
         {
             for (int j = 5; j > 1; j--)
             {
-                Console.WriteLine("{0} - {1}", i, j);
+                Console.WriteLine($"{i} - {j}");
                 i++;
             }
         }
