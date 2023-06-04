@@ -9,6 +9,8 @@
                 Console.WriteLine($"{i} - {j}");
                 i++;
             }
+
+            Console.ReadKey();
         }
     }
 }

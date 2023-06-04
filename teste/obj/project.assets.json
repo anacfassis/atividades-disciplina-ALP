@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\PrimeiraAtividade\\PrimeiraAtividade.csproj",
-      "projectName": "PrimeiraAtividade",
-      "projectPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\PrimeiraAtividade\\PrimeiraAtividade.csproj",
+      "projectUniqueName": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\teste\\teste.csproj",
+      "projectName": "teste",
+      "projectPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\teste\\teste.csproj",
       "packagesPath": "C:\\Users\\ninha\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\PrimeiraAtividade\\obj\\",
+      "outputPath": "C:\\Users\\ninha\\OneDrive\\Documentos\\GitHub\\Meus projetos\\ALP\\atividades-disciplina-ALP\\teste\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ninha\\AppData\\Roaming\\NuGet\\NuGet.Config"
